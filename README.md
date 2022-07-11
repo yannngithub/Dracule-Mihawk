@@ -23,9 +23,7 @@
 ---
 
 ## For Your Info ☕
-```bash
-This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Nzrl Afndi`](https://github.com/NzrlAfndi/Dracule-Mihawk) You Can Get The Edited Script In Channel [`FBOTZ YT`](https://youtube.com/c/FBOTZYT)
-```
+> This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Nzrl Afndi`](https://github.com/NzrlAfndi/Dracule-Mihawk) You Can Get The Edited Script In Channel [`FBOTZ YT`](https://youtube.com/c/FBOTZYT)
 
 ## Connect With Me 🌱
 <p align="center">
